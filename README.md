@@ -3,9 +3,19 @@
 Este es un instalador automático diseñado por **Rxb3l1ons** para desplegar **Kali NetHunter** en Termux con una estética futurista y sin errores.
 
 ### ⚡ INSTALACIÓN EN 1 MINUTO
+Copia y pega este comando para ejecutar todo el proceso de una:
+
 ```bash
 pkg install git -y && git clone https://github.com/Rxb3l1ons/Rxb3l1ons_kali.git && cd Rxb3l1ons_kali && chmod +x Rxb3lios_kali.sh && ./Rxb3lios_kali.sh
 ```
+
+---
+
+### 🛠️ GUÍA RÁPIDA DE COMANDOS
+* **Descarga el Repo:** `git clone https://github.com/Rxb3l1ons/Rxb3l1ons_kali.git`
+* **Entra a la Carpeta:** `cd Rxb3l1ons_kali`
+* **Activa el Script:** `chmod +x Rxb3lios_kali.sh`
+* **Lanza el Sistema:** `./Rxb3lios_kali.sh`
 
 ---
 > **Desarrollado por Rxb3l1ons** | Estética `kali@kali:~$` activada.
